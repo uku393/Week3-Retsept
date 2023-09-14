@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&family=Roboto:ital,wght@0,500;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Noto+Sans:wght@100&family=Roboto:ital,wght@0,500;1,900&display=swap');
+
+body{
+    background-color: rgb(185, 185, 46);
+}
+
+.heading1{
+    text-align: center;
+    color: rgb(98, 99, 95);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.heading2{
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(98, 99, 95);
+    font-family: 'Lato', sans-serif;
+}
+
+.pilt{
+    text-align: center; 
+}
+
+.koostisosad{
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(92, 92, 92);
+}
+
+.koostisosade_tabel{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.valmistamine{
+    color: rgb(92, 92, 92);
+}
+
+.valmistamine ol{
+    width: 25%;
+    margin: 0 auto;
+
+}
+
+.allikas{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(238, 255, 0);
+}
